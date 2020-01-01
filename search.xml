@@ -4,11 +4,24 @@
   
     
     <entry>
-      <title>xd_video_12-</title>
+      <title>test</title>
+      <link href="/2020/01/01/test/"/>
+      <url>/2020/01/01/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xd_video_12-14</title>
       <link href="/2020/01/01/xd-video-12-GET-POST/"/>
       <url>/2020/01/01/xd-video-12-GET-POST/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="video14-mysql-综合"><a href="#video14-mysql-综合" class="headerlink" title="video14 mysql 综合"></a>video14 mysql 综合</h1><p>创建数据库、创建表字段、添加数据库、修改数据库、备份数据库</p>]]></content>
       
       
       
